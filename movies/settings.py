@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'moviesdb',
         'USER': 'postgres',
-        'PASSWORD': 'Jdw23rkw',
+        'PASSWORD': 'djangodb',
         'HOST': 'localhost',
         'PORT': '5432',
 
