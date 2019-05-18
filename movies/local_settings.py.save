@@ -1,0 +1,15 @@
+SECRET_KEY = '&!3f9tbwdkx*v3y7tythracksgs_+$eo#vi%pon34qnm)racks3maco-hf=+9)'
+
+ALLOWED_HOSTS = ['68.183.122.40']
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'moviesdb',
+        'USER': 'shallan',
+        'PASSWORD': 'thereisapattern',
+        'HOST': 'localhost',
+        'PORT': '5432',
+
+    }
+}
